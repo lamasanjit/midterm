@@ -1,0 +1,22 @@
+
+
+ a:hover{
+    color : rgb(41, 2, 7);
+}
+footer P{
+    font-size: .75em;
+}
+
+header{
+    background-color : hsl(289, 60%, 71%);
+ }
+ .structural{
+    margin :10px;
+    padding :10px;
+    border : 2px solid black;
+ }
+ image{
+    float: right;
+ }
+ 
+ 
